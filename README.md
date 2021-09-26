@@ -1,3 +1,3 @@
 # Nord Themed Patched Dmenu
 
-## Customized DT's patched Dmenu 
+## It is a Customized version of DT's patched Dmenu 
