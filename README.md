@@ -2,7 +2,7 @@
 
 
 
-## Instalation
+## Installation
 ```git clone https://github.com/Arsh90/dmenu-nord```
 </br>
 <code>cd dmenu-nord</code>
